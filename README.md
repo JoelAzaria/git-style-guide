@@ -29,7 +29,7 @@
 
 ## Use the imperative mood in the subject line
 
-#### Imperative mood just means “spoken or ssswritten as if giving a command or instruction”.
+#### Imperative mood just means “spoken or written as if giving a command or instruction”.
 * Clean your room
 * Close the door
 * Take out the trash

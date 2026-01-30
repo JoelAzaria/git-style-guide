@@ -1,12 +1,50 @@
 <a id="toc" rel="bookmark"></a>
 # Table of Contents
 
+* [Preamble](#preamble)
 * [Introduction](#intro)
 * [Workflow](#workflow)
 * [Merging Standards](#merging-standards)
 * [Naming](#naming)
 
 <hr />
+
+<a id="preamble" rel="bookmark"></a>
+
+# Preamble
+## The seven rules of a great Git commit message
+
+<!-- #### Keep in mind: [This](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) [has](https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#_commit_guidelines) [all](https://github.com/torvalds/subsurface-for-dirk/blob/master/README.md#contributing) [been](http://who-t.blogspot.co.at/2009/12/on-commit-messages.html) [said](https://github.com/erlang/otp/wiki/writing-good-commit-messages) [before](https://github.com/spring-projects/spring-framework/blob/30bce7/CONTRIBUTING.md#format-commit-messages).
+-->
+
+1. Separate subject from body with a blank line
+1. Limit the subject line to 50 characters
+1. Capitalize the subject line
+1. Do not end the subject line with a period
+1. Use the imperative mood in the subject line
+1. Wrap the body at 72 characters
+1. Use the body to explain what and why vs. how
+
+	* https://cbea.ms/git-commit#seven-rules
+
+## Use the imperative mood in the subject line
+
+#### Imperative mood just means “spoken or ssswritten as if giving a command or instruction”.
+* Clean your room
+* Close the door
+* Take out the trash
+
+## A properly formed commit subject should always complete the following sentence:
+
+#### If applied, this commit will: <u>***your commit subject line here...***</u>
+
+
+	* https://cbea.ms/git-commit#imperative
+
+
+[Back to the top](#toc)
+<hr />
+
 
 <a id="intro" rel="bookmark"></a>
 # Introduction
